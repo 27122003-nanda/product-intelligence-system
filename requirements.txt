@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+rank_bm25
+sentence-transformers
+groq
+python-multipart
+streamlit
+requests
+numpy
