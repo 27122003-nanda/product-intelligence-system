@@ -90,4 +90,4 @@ python eval_set.py   # runs 5 fixed questions, checks retrieval hit correct sour
   LLM-as-judge layer would be the next addition for full answer-level eval.
 
 ## Deployment
-Deployed on [Hugging Face Spaces / Railway — fill in link after deploying].
+Deployed live on Hugging Face Spaces: https://huggingface.co/spaces/nandabr/product-intelligence-system
